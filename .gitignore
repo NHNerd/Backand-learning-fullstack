@@ -1,0 +1,9 @@
+.json
+.png
+.jpeg
+.webp
+
+node_modules
+config
+uploads
+
